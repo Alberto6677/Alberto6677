@@ -11,7 +11,7 @@ Liens
 -
 <a href="https://forms.gle/nr6a1QZoGHRof4oR7">Postuler chez Alture (google forms)</a>
 
-<a href="https://github.com/new?name=*ton-pseudo*">Crée une repo avec ton nom (tu n'auras qu'a cocher la case "add README"</a>
+<a href="https://github.com/new?name=*ton-pseudo*">Crée une repo avec ton nom (tu n'auras qu'a cocher la case "add README")</a>
 
 <a href="https://discord.com/users/1315925834649047044">Mon compte discord</a>
 
