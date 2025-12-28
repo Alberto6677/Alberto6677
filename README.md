@@ -7,8 +7,13 @@ Salut c’est Alberto67 😄, un développeur 🔌, UI/UX designer💡, et un pe
 - 😄 Fun fact: J'adore travailler en m'amusant !
 - 💡 Astuce de pro: Pour faire comme moi et créer une bio plus longue il faut créer une repo publique avec votre nom de votre compte (par exemple si tu t'appelle octocat tu crée une repo octocat) après tu n'aura qu'a modifier ton "README.md"
 
-Liens bonus
+Liens 
 -
 <a href="https://forms.gle/nr6a1QZoGHRof4oR7">Postuler chez Alture (google forms)</a>
 
 <a href="https://github.com/new?name=*ton-pseudo*">Crée une repo avec ton nom (tu n'auras qu'a cocher la case "add README"</a>
+
+<a href="https://discord.com/users/1315925834649047044">Mon compte discord</a>
+
+<a href="https://bento.me/Alberto67">Tous mes liens</a>
+
